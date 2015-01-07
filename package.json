@@ -1,0 +1,27 @@
+{
+  "name": "mp3zap",
+  "version": "1.0.0",
+  "description": "mp3zap downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/micaelsouza/mp3zap"
+  },
+  "keywords": [
+    "mp3",
+    "download"
+  ],
+  "author": "Micael Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micaelsouza/mp3zap/issues"
+  },
+  "homepage": "https://github.com/micaelsouza/mp3zap",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "needle": "^0.7.10"
+  }
+}
